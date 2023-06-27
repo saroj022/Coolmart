@@ -11,23 +11,5 @@
 
 # Tech Stack 
 ### HTML | CSS | JavaScript  |React | Redux | Redux-thunk | Chakra UI
-### Home page
-![](https://github.com/saroj022/hissing-love-5128/blob/master/public/Screenshot%20(122).png?raw=true)
-
-### Login & Sign up Page
-![](https://github.com/saroj022/hissing-love-5128/blob/master/public/Screenshot%20(120).png?raw=true)
-### Sign Up Page
-![](https://github.com/saroj022/hissing-love-5128/blob/master/public/Screenshot%20(121).png?raw=true)
-
-### Cart Page
-![](https://github.com/saroj022/hissing-love-5128/blob/master/public/Screenshot%20(123).png?raw=true)
-
-### Search bar Page
-![](https://github.com/saroj022/hissing-love-5128/blob/master/public/Screenshot%20(124).png?raw=true)
-### mens Page
-![](https://github.com/saroj022/hissing-love-5128/blob/master/public/Screenshot%20(125).png?raw=true)
-
-
-
 
 
